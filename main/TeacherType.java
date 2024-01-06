@@ -1,0 +1,5 @@
+package main;
+
+public enum TeacherType {
+	PROFESSOR, ASSOCIATE_PROFESSOR, SENIOR_LECTURER, LECTURER, TUTOR, INSTRUCTOR
+}
